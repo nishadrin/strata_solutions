@@ -330,4 +330,4 @@ strata_blog/media/
 .pytest_cache/
 .ipython/
 .env
-.envs/*
+#.envs/*
